@@ -23,7 +23,7 @@ Esta categoría consta de construir un planificador, ya sea:
 
 ## Entrega ✅
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
-- Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
+- Link Deploy = https://antihackathon-worst-ui-ux.github.io/planner-challenge-test-deploy/
 
 ---
 
